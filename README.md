@@ -11,4 +11,5 @@
 
 Ｅｄｉｔ ｆｉｌｅ ＴｅｓｔＲｅｓｕｌｔ．ｊａｖａ：
 ＰＮＧ:
-![Result](https://user-images.githubusercontent.com/72559370/106356886-6e39bd80-630b-11eb-93dc-6955ada70214.png)
+![Result](https://user-images.githubusercontent.com/72559370/106356920-ae993b80-630b-11eb-939c-a406a5e249c1.png)
+
